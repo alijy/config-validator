@@ -1,4 +1,4 @@
-# config-verifier
+# config-validator
 
 (some description)
 
